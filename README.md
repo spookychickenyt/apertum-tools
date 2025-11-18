@@ -12,10 +12,10 @@ did_info.py is a python script, it must exist in the same directory as both the 
   
   
 ## Prerequisits (Fedora)
-`dnf install python3`  
-`pip install web3`  
-`pip install pycurl`  
-`pip install jsonpickle`  
+`dnf install python3  
+pip install web3  
+pip install pycurl  
+pip install jsonpickle`  
   
   
 ## usage 
